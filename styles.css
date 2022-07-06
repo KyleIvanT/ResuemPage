@@ -1,5 +1,7 @@
 .container2-md-12{
-    
+    background: gray;
+    border:4px solid blue;
+    padding: 100px;
 }
 
 .container-whole-md-12{
@@ -22,5 +24,16 @@
     border:2px solid white;
     border-radius:25px;
     width:500px;
+}
+.item{
+    border:2px solid red;
+    width: 150px;
+    height: 60px;
+}
+.p{
+    border:10px solid ghostwhite;
+    border-radius:15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
 }
 
